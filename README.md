@@ -1,3 +1,13 @@
+link: https://sambo1994.github.io/life-path-predictor/
+
+
+
+
+
+
+
+
+
 1. Life Expectancy Calculation (LE):
 The life expectancy is determined based on the birth year 
 𝑌
